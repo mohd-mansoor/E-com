@@ -1,6 +1,6 @@
 # MERN E-COMMERCE 
 
-Hi! My name is **Mohammed Mansoor Shareef**, I have created this  E-Com website to display MERN Stack Skills.
+Hi! My name is **Mohammed Mansoor Shareef**, I have created this  E-Com website to display MERN Stack Skills .
 
 # Install Dependencies
 
@@ -8,7 +8,6 @@ Hi! My name is **Mohammed Mansoor Shareef**, I have created this  E-Com website 
 
 **For Frontend** - `cd frontend` ` npm i`
 
-## Env Variables
 
 
 **Essential Variables**
